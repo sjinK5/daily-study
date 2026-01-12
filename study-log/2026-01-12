@@ -1,0 +1,8 @@
+# 2026-01-12
+
+## Today I Study
+- Hoisting (function / variable)
+
+## Notes
+- 함수 선언문은 호이스팅 O, 함수 표현식·let/const는 호이스팅 발생하지 않는 것 처럼 보임.
+                           But, 변수 초기화 완료될 때까지 TDZ에 (헷갈리는 부분 복습 완료)
